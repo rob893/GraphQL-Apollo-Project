@@ -1,0 +1,1 @@
+# Small project to explore TypeORM and GraphQL with Apollo Server
